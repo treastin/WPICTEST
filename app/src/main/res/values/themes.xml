@@ -1,0 +1,20 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.WPICTEST" parent="Theme.Material3.DayNight.NoActionBar">
+        <!-- Customize your light theme here. -->
+        <!-- <item name="colorPrimary">@color/my_light_primary</item> -->
+    </style>
+
+    <style name="MenuTextStyle">
+        <item name="android:textSize">16sp</item>
+        <item name="fontFamily">@font/roboto_regular</item>
+        <item name="android:layout_marginTop">5dp</item>
+    </style>
+
+    <style name="MenuTextStyle.MainCategory" parent="MenuTextStyle">
+        <item name="android:textSize">24sp</item>
+        <item name="android:layout_marginBottom">10dp</item>
+    </style>
+
+    <style name="Theme.WPICTEST" parent="Base.Theme.WPICTEST" />
+</resources>
