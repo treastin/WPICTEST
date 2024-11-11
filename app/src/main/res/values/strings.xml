@@ -1,3 +1,10 @@
 <resources>
     <string name="app_name">WPICTEST</string>
+    <string name="home_menu__txt__single_frames">Single Frames</string>
+    <string name="home_menu__txt__double_frames">Double Frames</string>
+    <string name="home_menu__txt__triple_frames">Triple frames</string>
+    <string name="home_menu__txt__colage">Colage</string>
+    <string name="home_menu__txt__photo_edit">Photo Edit</string>
+    <string name="home_menu__txt__add_text">Add Text</string>
+    <string name="home_menu__txt__popular_frames">Popular frames</string>
 </resources>
